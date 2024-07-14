@@ -2,7 +2,7 @@
 ## Abstract
 The code reads pdf files and extracts required sections for the document (education, experience, skills). Then a predefined LLM is used to generate questions and grade answers.
 ## Libraries used 
-* Pymupdf
+* PyMuPDF 
 * Pandas 
 * re
 * Numpy
