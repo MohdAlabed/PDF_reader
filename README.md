@@ -22,8 +22,3 @@ The System works on readable PDF files. Pymupdf is used to read uploaded PDF fil
 5. Then using the work experience section to find dates using re and calculate the candidate's years of experience using datetime and dateutil libraries.
 6. The Skills section is cleaned and sent with the prompt for google gemini to generate question and later grade answers.
 7. Finally, everything is written on to the CV_Report.txt as the report of the CV.
-
-## Files
-1. CV.pdf: the resume used as an input.
-2. cvreader_code.ipynb: code 
-3. CV_Report.txt: the output
